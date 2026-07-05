@@ -16,3 +16,7 @@ Tugas ini berisi program simulasi untuk mengamankan pesan teks menggunakan kombi
    Buka Terminal atau CMD, lalu ketik perintah berikut:
    ```bash
    pip install pillow cryptography
+2. **Jalankan program:**
+   ketik perintah berikut:
+   ```bash
+   python TugasM11.py
